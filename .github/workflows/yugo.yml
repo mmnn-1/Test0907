@@ -23,7 +23,6 @@ jobs:
       
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if:github.ref == 'ref/heades/master'
         with:
           github_tocken:  ${{ secrets.ACCESS_TOKEN }}
           publish_dir:  ./public
