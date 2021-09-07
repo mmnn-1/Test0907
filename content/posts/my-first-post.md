@@ -7,9 +7,9 @@ draft: false
 sdfghjsgdjf
 
 ## Martin
-'''c
+```c
 int main(){
     printf("Hello");
     return 0;
 }
-'''
+```c
