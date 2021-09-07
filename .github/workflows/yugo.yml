@@ -27,7 +27,6 @@ jobs:
           github_tocken:  ${{ secrets.ACCESS_TOKEN }}
           publish_dir:  ./public
 
-          //
 
 
 
